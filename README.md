@@ -1,10 +1,37 @@
-# Firebase Studio
+# AiVana: Idea Alchemist 🚀
 
-This is a NextJS starter in Firebase Studio.
+[![Live Demo](https://img.shields.io/badge/View%20Live-Demo%20on%20Render-46a2f1?style=for-the-badge)](https://ai-vana.onrender.com)
 
-## Getting Started
+AiVana is an AI-powered project idea generator that helps you discover your next big project. Built with Next.js and powered by Google's Gemini AI, it generates personalized project ideas based on your interests, skill level, and available time.
 
-To get started, take a look at src/app/page.tsx.
+## ✨ Features
+
+- 🧠 AI-powered project idea generation
+- 🎨 Beautiful, responsive UI with Tailwind CSS
+- 🔒 Secure authentication system
+- 💬 Interactive chat interface
+- 🖼️ AI-generated images for each project idea
+- ⚡ Fast and performant with Next.js
+
+## 🚀 Live Demo
+
+Check out the live demo at: [https://ai-vana.onrender.com](https://ai-vana.onrender.com)
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Next.js 15.3.3, React 18, TypeScript
+- **Styling**: Tailwind CSS, Radix UI
+- **AI**: Google Genkit AI, Gemini 2.0 Flash
+- **Authentication**: NextAuth.js
+- **Deployment**: Render
+
+## 🏃‍♂️ Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
 ## Setting up your Gemini API Key
 
