@@ -17,6 +17,9 @@ AiVana is an AI-powered project idea generator that helps you discover your next
 
 Check out the live demo at: [https://ai-vana.onrender.com](https://ai-vana.onrender.com)
 
+Check out the live demo at: [https://ai-vana.netlify.app](https://ai-vana.netlify.app)
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 15.3.3, React 18, TypeScript
